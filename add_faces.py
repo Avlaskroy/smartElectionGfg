@@ -12,7 +12,7 @@ faces_data = []
 
 i=0
 name = input("Enter your aadhar number: ")
-framesTotal=51
+framesTotal=100
 captureAfterFrame=2
 
 while True:
